@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@arco-design/web-react": "^2.62.1",
+    "ahooks": "^3.8.0",
     "jotai": "^2.8.2",
+    "pino": "^9.2.0",
+    "pino-pretty": "^11.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

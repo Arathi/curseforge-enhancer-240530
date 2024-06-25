@@ -20,7 +20,7 @@ export default defineConfig({
       userscript: {
         name: 'CurseForge Enhancer',
         author: 'Arathi of Nebnizilla',
-        icon: 'https://vitejs.dev/logo.svg',
+        icon: 'https://static-beta.curseforge.com/images/favicon.ico',
         namespace: 'com.undsf.tmus.cfe',
         match: ['https://www.curseforge.com/minecraft/search*'],
       },
